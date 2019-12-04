@@ -4,3 +4,4 @@ SpeedUP is a typing tutor with typing tutorial and typing practice modules like 
 Launch SpeedUP.jar
 ## Requirements
 Java Runtime Environment(JRE) 1.8 or higher
+Windows 7 or higher
